@@ -1,0 +1,2 @@
+Izveidoju vairākas pieejas, lai varētu ienest datus DynamoDB tabulā no lambdas. Write- saistībā ar JSON faila ienešanu, READ, DELETE- pats par sevīm saprotams,
+request fails lai dabūtu JSON failu no spreadsheet. Ka arī python mapē, ir fails, kurš dod iespēju nolasīt datus no .csv faila un ienest tos datus DynamoDB tabulā.
